@@ -16,7 +16,7 @@ import MAF.Utils.ExcelUtility.ExcelUtilility;
 public class ProjectBaseClass {
 
 
-	//Defining Global Variables
+	//Defining Global Variables//
 	public static WebDriver driver1;
 	public static String projectpath1;
 	public static org.apache.logging.log4j.Logger logger;
