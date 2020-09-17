@@ -1,0 +1,86 @@
+[INFO ] 2020-09-16 14:17:35.654 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-09-16 14:17:35.734 [main] ProjectBaseClass - URL Fetched :https://www.carrefouruae.com/
+[INFO ] 2020-09-16 14:17:40.359 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer registration-----
+[INFO ] 2020-09-16 14:17:40.359 [main] ProjectBaseClass - CustomerFirstName - Ashwin
+[INFO ] 2020-09-16 14:17:40.360 [main] ProjectBaseClass - CustomerLastName - Gujjar
+[INFO ] 2020-09-16 14:17:40.360 [main] ProjectBaseClass - CustomerEmail - ashwin.gn2@gmail.com
+[INFO ] 2020-09-16 14:17:40.361 [main] ProjectBaseClass - CustomerPassword - MAFmaf@123
+[INFO ] 2020-09-16 14:17:40.361 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer login-----
+[INFO ] 2020-09-16 14:17:40.361 [main] ProjectBaseClass - LoginUserName1 - ashwin.gn3@gmail.com
+[INFO ] 2020-09-16 14:17:40.362 [main] ProjectBaseClass - LoginPassword1 - AmmaAppa@12
+[INFO ] 2020-09-16 14:17:40.582 [main] ProjectBaseClass - ---------------------------------------------New test ( TC001_UserRegistration) Started-----------------------------------------------------/
+[INFO ] 2020-09-16 14:19:10.127 [main] ProjectBaseClass - Browser opened & URL entered is Successful
+[INFO ] 2020-09-16 14:19:42.886 [main] ProjectBaseClass - cLickOn Registration Button - Successful
+[INFO ] 2020-09-16 14:20:22.977 [main] ProjectBaseClass - Enter Customer details - Successful
+[INFO ] 2020-09-16 14:20:34.658 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-09-16 14:20:34.659 [main] ProjectBaseClass - URL Fetched :https://www.carrefouruae.com/
+[INFO ] 2020-09-16 14:20:34.841 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer registration-----
+[INFO ] 2020-09-16 14:20:34.841 [main] ProjectBaseClass - CustomerFirstName - Ashwin
+[INFO ] 2020-09-16 14:20:34.845 [main] ProjectBaseClass - CustomerLastName - Gujjar
+[INFO ] 2020-09-16 14:20:34.845 [main] ProjectBaseClass - CustomerEmail - ashwin.gn2@gmail.com
+[INFO ] 2020-09-16 14:20:34.846 [main] ProjectBaseClass - CustomerPassword - MAFmaf@123
+[INFO ] 2020-09-16 14:20:34.848 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer login-----
+[INFO ] 2020-09-16 14:20:34.848 [main] ProjectBaseClass - LoginUserName1 - ashwin.gn3@gmail.com
+[INFO ] 2020-09-16 14:20:34.849 [main] ProjectBaseClass - LoginPassword1 - AmmaAppa@12
+[INFO ] 2020-09-16 14:20:34.855 [main] ProjectBaseClass - ---------------------------------------------New test ( TC002_UserLogin) Started-----------------------------------------------------/
+[INFO ] 2020-09-16 14:21:43.640 [main] ProjectBaseClass - Login TC - Browser opened & URL entered is Successful
+[INFO ] 2020-09-16 14:22:13.274 [main] ProjectBaseClass - Login TC - Clicked Successfully on Login/register
+[INFO ] 2020-09-16 14:49:18.677 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-09-16 14:49:19.003 [main] ProjectBaseClass - URL Fetched :https://www.carrefouruae.com/
+[INFO ] 2020-09-16 14:49:24.933 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer registration-----
+[INFO ] 2020-09-16 14:49:24.934 [main] ProjectBaseClass - CustomerFirstName - Ashwin
+[INFO ] 2020-09-16 14:49:24.935 [main] ProjectBaseClass - CustomerLastName - Gujjar
+[INFO ] 2020-09-16 14:49:24.935 [main] ProjectBaseClass - CustomerEmail - ashwin.gn2@gmail.com
+[INFO ] 2020-09-16 14:49:24.935 [main] ProjectBaseClass - CustomerPassword - MAFmaf@123
+[INFO ] 2020-09-16 14:49:24.935 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer login-----
+[INFO ] 2020-09-16 14:49:24.936 [main] ProjectBaseClass - LoginUserName1 - ashwin.gn3@gmail.com
+[INFO ] 2020-09-16 14:49:24.936 [main] ProjectBaseClass - LoginPassword1 - AmmaAppa@12
+[INFO ] 2020-09-16 14:49:25.130 [TestNG-test=Customer Registration-1] ProjectBaseClass - ---------------------------------------------New test ( TC001_UserRegistration) Started-----------------------------------------------------/
+[INFO ] 2020-09-16 14:50:44.601 [TestNG-test=Customer Registration-1] ProjectBaseClass - Browser opened & URL entered is Successful
+[INFO ] 2020-09-16 14:51:02.162 [TestNG-test=Customer Registration-1] ProjectBaseClass - cLickOn Registration Button - Successful
+[INFO ] 2020-09-16 14:51:31.448 [TestNG-test=Customer Registration-1] ProjectBaseClass - Enter Customer details - Successful
+[INFO ] 2020-09-16 14:51:39.149 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-09-16 14:51:39.150 [main] ProjectBaseClass - URL Fetched :https://www.carrefouruae.com/
+[INFO ] 2020-09-16 14:51:39.261 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer registration-----
+[INFO ] 2020-09-16 14:51:39.261 [main] ProjectBaseClass - CustomerFirstName - Ashwin
+[INFO ] 2020-09-16 14:51:39.261 [main] ProjectBaseClass - CustomerLastName - Gujjar
+[INFO ] 2020-09-16 14:51:39.262 [main] ProjectBaseClass - CustomerEmail - ashwin.gn2@gmail.com
+[INFO ] 2020-09-16 14:51:39.262 [main] ProjectBaseClass - CustomerPassword - MAFmaf@123
+[INFO ] 2020-09-16 14:51:39.262 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer login-----
+[INFO ] 2020-09-16 14:51:39.263 [main] ProjectBaseClass - LoginUserName1 - ashwin.gn3@gmail.com
+[INFO ] 2020-09-16 14:51:39.263 [main] ProjectBaseClass - LoginPassword1 - AmmaAppa@12
+[INFO ] 2020-09-16 14:51:39.270 [TestNG-test=Customer Login-1] ProjectBaseClass - ---------------------------------------------New test ( TC002_UserLogin) Started-----------------------------------------------------/
+[INFO ] 2020-09-16 14:53:23.726 [TestNG-test=Customer Login-1] ProjectBaseClass - Login TC - Browser opened & URL entered is Successful
+[INFO ] 2020-09-16 14:53:45.366 [TestNG-test=Customer Login-1] ProjectBaseClass - Login TC - Clicked Successfully on Login/register
+[INFO ] 2020-09-16 14:53:49.063 [TestNG-test=Customer Login-1] ProjectBaseClass - Login TC - UserName Entered successfully for Login
+[INFO ] 2020-09-16 14:53:55.702 [TestNG-test=Customer Login-1] ProjectBaseClass - Login TC - Password Entered successfully for Login
+[INFO ] 2020-09-16 14:57:21.526 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-09-16 14:57:21.591 [main] ProjectBaseClass - URL Fetched :https://www.carrefouruae.com/
+[INFO ] 2020-09-16 14:57:23.384 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer registration-----
+[INFO ] 2020-09-16 14:57:23.384 [main] ProjectBaseClass - CustomerFirstName - Ashwin
+[INFO ] 2020-09-16 14:57:23.384 [main] ProjectBaseClass - CustomerLastName - Gujjar
+[INFO ] 2020-09-16 14:57:23.385 [main] ProjectBaseClass - CustomerEmail - ashwin.gn2@gmail.com
+[INFO ] 2020-09-16 14:57:23.385 [main] ProjectBaseClass - CustomerPassword - MAFmaf@123
+[INFO ] 2020-09-16 14:57:23.385 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer login-----
+[INFO ] 2020-09-16 14:57:23.386 [main] ProjectBaseClass - LoginUserName1 - ashwin.gn3@gmail.com
+[INFO ] 2020-09-16 14:57:23.386 [main] ProjectBaseClass - LoginPassword1 - AmmaAppa@12
+[INFO ] 2020-09-16 14:57:23.482 [TestNG-test=Customer Registration-1] ProjectBaseClass - ---------------------------------------------New test ( TC001_UserRegistration) Started-----------------------------------------------------/
+[INFO ] 2020-09-16 14:58:48.421 [TestNG-test=Customer Registration-1] ProjectBaseClass - Browser opened & URL entered is Successful
+[INFO ] 2020-09-16 14:58:57.189 [TestNG-test=Customer Registration-1] ProjectBaseClass - cLickOn Registration Button - Successful
+[INFO ] 2020-09-16 14:59:25.674 [TestNG-test=Customer Registration-1] ProjectBaseClass - Enter Customer details - Successful
+[INFO ] 2020-09-16 14:59:37.075 [main] ProjectBaseClass - -------------------------------------New Iteration of Test execution Started-----------------------------------------------/
+[INFO ] 2020-09-16 14:59:37.076 [main] ProjectBaseClass - URL Fetched :https://www.carrefouruae.com/
+[INFO ] 2020-09-16 14:59:37.196 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer registration-----
+[INFO ] 2020-09-16 14:59:37.197 [main] ProjectBaseClass - CustomerFirstName - Ashwin
+[INFO ] 2020-09-16 14:59:37.197 [main] ProjectBaseClass - CustomerLastName - Gujjar
+[INFO ] 2020-09-16 14:59:37.197 [main] ProjectBaseClass - CustomerEmail - ashwin.gn2@gmail.com
+[INFO ] 2020-09-16 14:59:37.198 [main] ProjectBaseClass - CustomerPassword - MAFmaf@123
+[INFO ] 2020-09-16 14:59:37.198 [main] ProjectBaseClass - --------Following are the Customer detsils fetched from Input excel for customer login-----
+[INFO ] 2020-09-16 14:59:37.200 [main] ProjectBaseClass - LoginUserName1 - ashwin.gn3@gmail.com
+[INFO ] 2020-09-16 14:59:37.200 [main] ProjectBaseClass - LoginPassword1 - AmmaAppa@12
+[INFO ] 2020-09-16 14:59:37.209 [TestNG-test=Customer Login-1] ProjectBaseClass - ---------------------------------------------New test ( TC002_UserLogin) Started-----------------------------------------------------/
+[INFO ] 2020-09-16 15:01:12.169 [TestNG-test=Customer Login-1] ProjectBaseClass - Login TC - Browser opened & URL entered is Successful
+[INFO ] 2020-09-16 15:01:17.545 [TestNG-test=Customer Login-1] ProjectBaseClass - Login TC - Clicked Successfully on Login/register
+[INFO ] 2020-09-16 15:01:25.186 [TestNG-test=Customer Login-1] ProjectBaseClass - Login TC - UserName Entered successfully for Login
+[INFO ] 2020-09-16 15:01:42.443 [TestNG-test=Customer Login-1] ProjectBaseClass - Login TC - Password Entered successfully for Login
+[INFO ] 2020-09-16 15:01:45.656 [TestNG-test=Customer Login-1] ProjectBaseClass - user Login Is Successful

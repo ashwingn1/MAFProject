@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Customer Registration(failed)">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="MAF.Tests.TC001_UserRegistration">
+        <methods>
+          <include name="Setup"/>
+          <include name="CustomerRegistration_ClickLoginRegister"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- MAF.Tests.TC001_UserRegistration -->
+    </classes>
+  </test> <!-- Customer Registration(failed) -->
+  <test thread-count="5" parallel="classes" name="Customer Login(failed)">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="MAF.Tests.TC002_UserLogin">
+        <methods>
+          <include name="Setup"/>
+          <include name="CustomerLogin_ClickLoginRegister"/>
+          <include name="TearDown"/>
+          <include name="CustomerLogin_EnterPassword"/>
+          <include name="CustomerLogin_EnterUserName"/>
+        </methods>
+      </class> <!-- MAF.Tests.TC002_UserLogin -->
+    </classes>
+  </test> <!-- Customer Login(failed) -->
+</suite> <!-- Failed suite [Suite] -->
